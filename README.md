@@ -22,16 +22,12 @@
 - Java SE (Swing для графического интерфейса)
 - Архитектура MVC (Model-View-Controller)
 
-## Скриншоты
-
-![Calculator Screenshot](screenshot.png)
-
 ## Запуск проекта
 
 ### Требования
 
 - Java Development Kit (JDK) 8 или выше.
-- Среда разработки, поддерживающая проекты Java (например, IntelliJ IDEA, Eclipse).
+- Среда разработки, поддерживающая проекты Java (например, IntelliJ IDEA, Eclipse и т.д).
 
 ### Инструкции по запуску
 
